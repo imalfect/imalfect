@@ -13,5 +13,7 @@
 
 ### Me: 
 [Mail](mailto:me@imal.dev)
+<br>
 [Twitter](https://twitter.com/imaldev)
+<br>
 [Reddit](https://reddit.com/u/imalfect)
